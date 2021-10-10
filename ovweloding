@@ -1,0 +1,15 @@
+    void show(int A)
+    {
+        System.out.println("apple");
+    } void show(String  B )
+    {
+        System.out.println("anamika");
+
+
+    }
+
+    public static void main(String[] args) {
+        Over o  = new Over();
+        o.show("apple");
+    }
+}
